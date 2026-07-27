@@ -1,19 +1,19 @@
-# <img src="./assets/profile-banner.svg" alt="Muhammad Raja Daffa banner" width="100%" />
+# <img src="profile-banner-fahri.svg" alt="Muhammad Fahri Hakim"> width="100%" />
 
-<!-- <h1 align="center">Muhammad Raja Daffa</h1> -->
+<!-- <h1 align="center">Muhammad Fahri Hakim</h1> -->
 <p align="center">
-  <!-- <strong>Rza</strong><br /> -->
+  <!-- <strong>Kim</strong><br /> -->
   ☕ Coding Enthusiast | 🎨 UI/UX | 🚀 SaaS Builder | ⛏️ Minecraft Server Developer
 </p>
 
 <p align="center">
-  <a href="https://rzadaffa.netlify.app">Portfolio</a>
+  <a href="https://porto-hakim.vercel.app">Portfolio</a>
   ·
-  <a href="YOUR_LINKEDIN_URL">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/fahri-hakim-9124573a6?utm_source=share_via&utm_content=profile&utm_medium=member_android">LinkedIn</a>
   ·
-  <a href="https://www.tiktok.com/@rzadaffa_">TikTok</a>
+  <a href="https://www.tiktok.com/@kimmyyy________">TikTok</a>
   ·
-  <a href="mailto:muhammadrajadaffa@gmail.com">Email</a>
+  <a href="mailto:hakimfahri97@gmail.com">Email</a>
 </p>
 
 ## Tech Stack
