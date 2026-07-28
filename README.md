@@ -1,4 +1,4 @@
-<img src="assets/profile-banner-fahri.svg" alt="Muhammad Fahri Hakim" width="100%">
+<img src="assets/profile-banner-fahri.png" alt="Muhammad Fahri Hakim" width="100%">
 
 <!-- <h1 align="center">Muhammad Fahri Hakim</h1> -->
 <p align="center">
